@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I am a **Fullstack Developer** with over **7 years
 
 ## 📫 Connect With Me
 
-* **Email**: [chinakalight@googlemail.com](mailto::chinakalight@googlemail.com)
+* **Linkedln**: [linkedLn](https://www.linkedin.com/in/chinaka-ihechukwu-light/)
 
 ---
 
