@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 🚀 Hi 👋, I'm Chinaka Ihechukwu Light
 
-Welcome to my GitHub profile! I am a **Fullstack Developer** with over **7 years of experience** designing and building innovative, scalable, and cloud-ready applications. My work focuses on delivering impactful solutions by blending strong technical skills with a solid understanding of business needs.
+Welcome to my GitHub profile! I am a **Software Engineer** with over **7 years of experience** designing and building innovative, scalable, and cloud-ready applications. My work focuses on delivering impactful solutions by blending strong technical skills with a solid understanding of business needs.
 
 ### Technologies & Tools
 
